@@ -13,7 +13,7 @@ unsigned int mlx_get_color_value(void *mlx_ptr, int color);
 void *mlx_xpm_to_image(void *mlx_ptr, char **xpm_data, int *width, int *height);
 
 void *mlx_xpm_file_to_image(void *mlx_ptr, char *filename, int *width, int *height);
-[]()
+
 int mlx_destroy_image(void *mlx_ptr, void *img_ptr);
 ```
 

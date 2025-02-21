@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mlx_loop.md",
+                "file": "mlx_new_image.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mlx_loop"
+              "title": "mlx_new_image"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c23a521ef0b5d818",
@@ -163,16 +164,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2b326a8fb336bb4c",
+  "active": "8a6719bfb7ed2d54",
   "lastOpenFiles": [
+    "42cursus/fdf/minilibx.md",
+    "mlx_pixel_put.md",
+    "mlx_new_window.md",
+    "mlx_loop.md",
     "minilibx.zip",
     "minilibx.tar.xz",
     "minilibx.md",
-    "42cursus/fdf/minilibx.md",
     "mlx_new_image.md",
-    "mlx_loop.md",
-    "mlx_new_window.md",
-    "mlx_pixel_put.md",
     "엔디안 (Endiannness).md",
     "엔디안.md",
     "42cursus/fdf/들어가며.md",
