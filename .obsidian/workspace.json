@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "8f66e63e342f4a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "7347c01c3a9ac450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a6719bfb7ed2d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mlx_loop.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mlx_loop"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "458dad84c6d8b329",
+    "type": "split",
+    "children": [
+      {
+        "id": "d527d5a5a92a7a4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b326a8fb336bb4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "64dcbbb54ecfb43e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "94b54d3725270cb9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c23a521ef0b5d818",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1cacd5a83e998dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee7fb8bea2e5cfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Born2beroot 메모.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Born2beroot 메모"
+            }
+          },
+          {
+            "id": "4f80b389f7d61c9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Born2beroot 메모.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Born2beroot 메모"
+            }
+          },
+          {
+            "id": "1251d4388512dc3b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "93f6e79b82f88fcb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Born2beroot 메모.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Born2beroot 메모"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "2b326a8fb336bb4c",
+  "lastOpenFiles": [
+    "minilibx.zip",
+    "minilibx.tar.xz",
+    "minilibx.md",
+    "42cursus/fdf/minilibx.md",
+    "mlx_new_image.md",
+    "mlx_loop.md",
+    "mlx_new_window.md",
+    "mlx_pixel_put.md",
+    "엔디안 (Endiannness).md",
+    "엔디안.md",
+    "42cursus/fdf/들어가며.md",
+    "42cursus/fdf/Mandatory.md",
+    "X Window.md",
+    "Beresenhm 알고리즘.md",
+    "X-Window.md",
+    "무제",
+    "정렬/병합 정렬.md",
+    "42cursus/fdf",
+    "42cursus/Pipex/pipex.md",
+    "정렬/삽입 정렬.md",
+    "정렬/정렬.md",
+    "정규화.md",
+    "42cursus/Pipex/pipe.md",
+    "42cursus/Born2beroot/Born2beroot 메모.md",
+    "42cursus/Pipex",
+    "42cursus/push_swap/push_swap 메모.md",
+    "정렬/images/Pasted image 20241127100639.png",
+    "정렬/images",
+    "Pasted image 20241127100351.png",
+    "Born2beroot 메모.pdf",
+    "정렬",
+    "잡동사니/complexity.md",
+    "42cursus/push_swap/스택.md",
+    "잡동사니",
+    "잡동사니/패키지.md"
+  ]
+}
