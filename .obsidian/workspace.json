@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8a6719bfb7ed2d54",
+            "id": "1156b912e74ab162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mlx_new_image.md",
+                "file": "AUTOSAR/프로젝트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mlx_new_image"
+              "title": "프로젝트"
+            }
+          },
+          {
+            "id": "cbf48b3fe2d3fdb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AUTOSAR/AUTOSAR.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AUTOSAR"
             }
           }
         ]
@@ -157,30 +171,46 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:빠른 전환기 열기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8a6719bfb7ed2d54",
+  "active": "1156b912e74ab162",
   "lastOpenFiles": [
+    "AUTOSAR/AUTOSAR.md",
+    "AUTOSAR/프로젝트.md",
+    "AUTOSAR/images/Screenshot from 2025-07-18 14-41-51.png",
+    "AUTOSAR/images",
     "42cursus/fdf/minilibx.md",
-    "mlx_pixel_put.md",
-    "mlx_new_window.md",
-    "mlx_loop.md",
+    "AUTOSAR",
+    "42cursus/fdf/mlx_loop.md",
+    "엔디안 (Endiannness).md",
+    "valeo/valeo.md",
+    "valeo/images/Pasted image 20250707154425.png",
+    "valeo/images/Pasted image 20250707154403.png",
+    "valeo/images/Pasted image 20250707154114.png",
+    "valeo/images/Pasted image 20250707154044.png",
+    "valeo/images/Pasted image 20250707152357.png",
+    "valeo/images",
+    "Embedded_Concepts_Summary_With_TOC.md",
+    "valeo",
+    "valeo.md",
+    "Embedded_Concepts_Summary.md",
+    "42cursus/fdf/mlx_pixel_put.md",
+    "42cursus/fdf/mlx_new_window.md",
     "minilibx.zip",
     "minilibx.tar.xz",
     "minilibx.md",
-    "mlx_new_image.md",
-    "엔디안 (Endiannness).md",
+    "42cursus/fdf/mlx_new_image.md",
     "엔디안.md",
     "42cursus/fdf/들어가며.md",
     "42cursus/fdf/Mandatory.md",
     "X Window.md",
     "Beresenhm 알고리즘.md",
-    "X-Window.md",
+    "42cursus/fdf/X-Window.md",
     "무제",
     "정렬/병합 정렬.md",
     "42cursus/fdf",
@@ -189,17 +219,9 @@
     "정렬/정렬.md",
     "정규화.md",
     "42cursus/Pipex/pipe.md",
-    "42cursus/Born2beroot/Born2beroot 메모.md",
     "42cursus/Pipex",
-    "42cursus/push_swap/push_swap 메모.md",
     "정렬/images/Pasted image 20241127100639.png",
     "정렬/images",
-    "Pasted image 20241127100351.png",
-    "Born2beroot 메모.pdf",
-    "정렬",
-    "잡동사니/complexity.md",
-    "42cursus/push_swap/스택.md",
-    "잡동사니",
-    "잡동사니/패키지.md"
+    "Pasted image 20241127100351.png"
   ]
 }
