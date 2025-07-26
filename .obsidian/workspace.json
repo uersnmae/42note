@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1156b912e74ab162",
+            "id": "d1860dcbd85df324",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "프로젝트"
             }
-          },
-          {
-            "id": "cbf48b3fe2d3fdb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AUTOSAR/AUTOSAR Methodology.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AUTOSAR Methodology"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +164,24 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "cbf48b3fe2d3fdb7",
+  "active": "d1860dcbd85df324",
   "lastOpenFiles": [
-    "AUTOSAR/images/Pasted image 20250721094441.png",
-    "AUTOSAR/images/Pasted image 20250721093801.png",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/CPU 동작.md",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/CPU 구조.md",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/CPU 동작",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/images/Stack Pointer.png",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/images/PSR.png",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/images/컴파일.png",
+    "AUTOSAR/프로젝트.md",
+    "CPU/images/Pasted image 20250722105347.png",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/images/CPU Block.png",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU/images",
+    "규칙으로 배우는 임베디드 시스템 펌웨어편/CPU",
     "AUTOSAR/AUTOSAR.md",
     "AUTOSAR/AUTOSAR Methodology.md",
-    "AUTOSAR/프로젝트.md",
+    "AUTOSAR/images/Pasted image 20250721094441.png",
+    "AUTOSAR/images/Pasted image 20250721093801.png",
     "AUTOSAR/images/Screenshot from 2025-07-18 14-41-51.png",
     "AUTOSAR/images",
     "42cursus/fdf/minilibx.md",
@@ -195,9 +191,6 @@
     "valeo/valeo.md",
     "valeo/images/Pasted image 20250707154425.png",
     "valeo/images/Pasted image 20250707154403.png",
-    "valeo/images/Pasted image 20250707154114.png",
-    "valeo/images/Pasted image 20250707154044.png",
-    "valeo/images/Pasted image 20250707152357.png",
     "valeo/images",
     "Embedded_Concepts_Summary_With_TOC.md",
     "valeo",
@@ -215,16 +208,9 @@
     "X Window.md",
     "Beresenhm 알고리즘.md",
     "42cursus/fdf/X-Window.md",
-    "무제",
     "정렬/병합 정렬.md",
-    "42cursus/fdf",
     "42cursus/Pipex/pipex.md",
     "정렬/삽입 정렬.md",
-    "정렬/정렬.md",
-    "정규화.md",
-    "42cursus/Pipex",
-    "정렬/images/Pasted image 20241127100639.png",
-    "정렬/images",
-    "Pasted image 20241127100351.png"
+    "정렬/정렬.md"
   ]
 }
